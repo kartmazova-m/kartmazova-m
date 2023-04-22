@@ -20,3 +20,6 @@
 </div>
 
 ### :woman_technologist: Обо мне : 
+- :snowflake: Люблю зиму летом, а лето зимой :sunny:
+- :desktop_computer: Изучаю HTML, CSS, JS, React
+- :heavy_multiplication_x: В свободное время играю в "Крестики-нолики" :white_circle:
