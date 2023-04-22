@@ -32,3 +32,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100px" />
 </div>
+
+---
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartmazova-m&theme=nord_bright" width="100%" marginTop="20px">
+<div display="flex">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartmazova-m&theme=nord_bright" width="49%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kartmazova-m&theme=nord_bright&utcOffset=8" width="49%">
+</div>
