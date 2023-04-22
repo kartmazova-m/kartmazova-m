@@ -1,5 +1,11 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
+  
+  <h1>
+  Всем привет!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <br>
+    Меня зовут Маргарита
+</h1>
+  <p>Я начинающий frontend-разработчик</p>
   <div id="badges">
   <a href="https://t.me/M_Kartmazova">
     <img src="https://img.shields.io/badge/Telegram-orange?logo=telegram&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
@@ -11,10 +17,6 @@
     <img src="https://img.shields.io/badge/Youtube-red?logo=youtube&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
   </a>
 </div>
-  <h1>
-  Привет
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 </div>
 
-
+### :woman_technologist: Обо мне : 
